@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/InstagramFirebaseO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/Pods/PodsO.xcodeproj">
+   </FileRef>
+</Workspace>
