@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1010"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6100C0C621E333990036F2E4"
-               BuildableName = "InstagramFirebase.app"
-               BlueprintName = "InstagramFirebase"
-               ReferencedContainer = "container:InstagramFirebase.xcodeproj">
+               BlueprintIdentifier = "1BED3BB52E638DE0827C719498795247"
+               BuildableName = "PodsO_InstagramFirebase.framework"
+               BlueprintName = "PodsO-InstagramFirebase"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6100C0C621E333990036F2E4"
-            BuildableName = "InstagramFirebase.app"
-            BlueprintName = "InstagramFirebase"
-            ReferencedContainer = "container:InstagramFirebase.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,23 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6100C0C621E333990036F2E4"
-            BuildableName = "InstagramFirebase.app"
-            BlueprintName = "InstagramFirebase"
-            ReferencedContainer = "container:InstagramFirebase.xcodeproj">
+            BlueprintIdentifier = "1BED3BB52E638DE0827C719498795247"
+            BuildableName = "PodsO_InstagramFirebase.framework"
+            BlueprintName = "PodsO-InstagramFirebase"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OS_ACTIVITY_MODE"
-            value = "disable"
-            isEnabled = "NO">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -77,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6100C0C621E333990036F2E4"
-            BuildableName = "InstagramFirebase.app"
-            BlueprintName = "InstagramFirebase"
-            ReferencedContainer = "container:InstagramFirebase.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

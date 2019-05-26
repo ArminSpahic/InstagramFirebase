@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/InstagramFirebaseO.xcodeproj">
+      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/InstagramFirebase.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/Pods/PodsO.xcodeproj">
+      location = "group:/Users/aki/Desktop/Xcode/InstagramFirebase/Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
